@@ -19,13 +19,31 @@
 ![image](https://github.com/JosiephousPierre/Cypress/assets/142465754/1c8b7b4c-0891-444b-b09f-6544f8f6f305)
 
 <h2>Next is follow these steps on creating or adding a test file</h2>
-
+<p></p>
 <h2>First</h2>
 
 ![image](https://github.com/JosiephousPierre/Cypress/assets/142465754/2d334257-48c7-4694-a527-87c57ecfebdd)
 
 
 <h2>Next</h2>
+
+![image](https://github.com/JosiephousPierre/Cypress/assets/142465754/609a9f53-7d8c-4f8d-b049-34d3dcb237ab)
+
+
+<h2>Next</h2>
+
+![image](https://github.com/JosiephousPierre/Cypress/assets/142465754/b5ca4fbe-b02e-4b33-885c-c8f117387dc6)
+
+
+<h2>Finally</h2>
+
+![image](https://github.com/JosiephousPierre/Cypress/assets/142465754/fb85001d-97f9-4af5-8385-28919b4d6e96)
+
+
+<p>You created or added a testing file.</p>
+<p>Now you can change the code on your VSCode to test your app.</p>
+
+
 
 
 
